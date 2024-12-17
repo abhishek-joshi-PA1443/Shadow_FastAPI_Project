@@ -1,2 +1,2 @@
 # Shadow_FastAPI_Project
-Author - Abhishek Joshi
+<h3>Author - Abhishek Joshi</h3>
